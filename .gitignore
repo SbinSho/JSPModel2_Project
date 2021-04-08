@@ -1,0 +1,15 @@
+### Eclipse ###
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*.properties
+.settings/
+.loadpath
+.recommenders
+target/
+context.xml
+SMTPAuthenticator.java
